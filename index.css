@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+::-webkit-scrollbar {
+  width: 7px;
+  background: #0d131f;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #49a0cb;
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #3681a3;
+}
+
+::-webkit-scrollbar:horizontal {
+  height: 8px;
+}
+
+.ql-container {
+  background-color: white !important;
+  color: black !important;
+}
+
+.ql-editor {
+  background-color: white !important;
+  color: black !important;
+  min-height: 200px;
+}
