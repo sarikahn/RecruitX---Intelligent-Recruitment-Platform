@@ -77,7 +77,7 @@ A modern recruitment platform similar to LinkedIn, powered by AI-driven resume s
 
 1. **Clone Repository**
 ```bash
-git clone https://github.com/Rishabh-Dhami/RecruitX.git
+git clone https://github.com/sarikahn/RecruitX.git
 cd RecruitX
 ```
 
@@ -169,6 +169,4 @@ Backend:
 - Error handling
 - Data encryption
 
-## Authors
 
-- [@Rishabh-Dhami](https://github.com/Rishabh-Dhami) - Project Lead & Full Stack Developer
