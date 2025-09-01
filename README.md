@@ -169,4 +169,5 @@ Backend:
 - Error handling
 - Data encryption
 
+Thank you for exploring the RecruitX - Intelligent Recruitment Platform Repo! Happy coding! 🚀
 
